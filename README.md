@@ -2,7 +2,7 @@
  
 That is the first Challenge I have to do in Ignite Module at Rockeseat WebSite
 
-### 👉 Link to Access: https://ignite-to-do.vercel.app/
+### 👉 Link to Access: 
 
 ## ⚙ Config Section
 
@@ -41,4 +41,4 @@ That is the first Challenge I have to do in Ignite Module at Rockeseat WebSite
 ## Empty Input Validation (That works on Desktop Mode too)
 ![image](https://user-images.githubusercontent.com/62482908/176277514-8ace17aa-88d3-4d7d-aa68-e0b8167ff7d3.png)
 
-👉 Visit my linkedin: https://www.linkedin.com/in/pedrovdf/
+👉 Visit my linkedin: https://www.linkedin.com/in/allanpablo
